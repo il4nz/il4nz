@@ -1,7 +1,5 @@
 <!-- Dynamic Header -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&letterSpacing=5px&pause=1000&color=F7F1F1&background=FFF4EC00&center=true&vCenter=true&width=435&lines=DevOps+Student" alt="Typing SVG" /></a>
-</p>
+
 
 ---
 
@@ -37,5 +35,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36d1dc,100:5b86e5&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=:#ffffff,100:5b86e5&height=120&section=footer"/>
 </p>
