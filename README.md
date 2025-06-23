@@ -1,6 +1,6 @@
 <!-- Dynamic Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=5BC0F8&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+a+DevOps+Student!;Always+learning+something+new!;Passionate+about+coding+%F0%9F%94%A5" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&letterSpacing=5px&pause=1000&color=F7F1F1&background=FFF4EC00&center=true&vCenter=true&repeat=false&width=435&lines=DevOps+Student" alt="Typing SVG" /></a>
 </p>
 
 ---
