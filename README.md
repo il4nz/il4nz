@@ -12,21 +12,13 @@
 
 ---
 
-## 📚 Currently Learning
-
-- 🌐 **Web Development:** Diving deeper into front-end & back-end technologies
-
----
-
 ## 🛠️ Tools & Software I Use
 
 - 🎨 **Graphics:** Adobe Creative Cloud (Photoshop)
 - 🎵 **Music Production:** FL Studio 21
 - 🧑‍💻 **Coding:** Visual Studio Code, Visual Studio
-- 🐧 **Operating System:** Ubuntu 16.04 / 18.04 / 20.04
 
 ---
-
 
 ## 🧰 Tech Stack
 
