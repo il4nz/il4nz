@@ -1,5 +1,8 @@
 <!-- Dynamic Header -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=464646&section=header&textBg=false&fontSize=50&fontAlignY=40&animation=fadeIn&reversal=true&strokeWidth=2&stroke=464646&fontColor=000000"/>
+</p>
 
 ---
 
@@ -35,5 +38,6 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=:#ffffff,100:5b86e5&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=464646&section=footer&textBg=false&fontSize=50&fontAlignY=40&animation=fadeIn&reversal=true&strokeWidth=2&stroke=464646&fontColor=000000"/>
 </p>
+
